@@ -47,7 +47,7 @@ This assignment should prove that a student is able to:
 
 ## Specific requirements
 
-- [ ] Check out the sample image of a completed assignment to see the expected outcome in /assets/images/. You don't need to imitate it exactly, feel free to use any desired letter styles.
+- [x] Check out the sample image of a completed assignment to see the expected outcome in /assets/images/. You don't need to imitate it exactly, feel free to use any desired letter styles.
 - [ ] You should have at least 10 different styles for the letters. A "unique" style means a distinct combination of:
   - Font size
   - Font color
@@ -93,5 +93,5 @@ This assignment should prove that a student is able to:
   <div class="yellow-letter letter-two">W</div>
   ```
 
-- [ ] The HTML document should NOT have inline styles.
-- [ ] There are 3 Google Fonts connected to the project. Find and connect 3 more random fonts from Google fonts. Feel free to use [this article](https://www.webdesignerdepot.com/2021/09/21-exceptional-google-fonts-you-probably-havent-discovered-yet/) or the [Google Fonts](https://fonts.google.com/) platform for the fonts inspiration.
+- [x] The HTML document should NOT have inline styles.
+- [x] There are 3 Google Fonts connected to the project. Find and connect 3 more random fonts from Google fonts. Feel free to use [this article](https://www.webdesignerdepot.com/2021/09/21-exceptional-google-fonts-you-probably-havent-discovered-yet/) or the [Google Fonts](https://fonts.google.com/) platform for the fonts inspiration.
